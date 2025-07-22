@@ -1,4 +1,4 @@
-requests
+Rrequests
 mysql-connector-python
 pyfiglet
 rich
